@@ -1,2 +1,2 @@
 
-this is my new reposiytory
+# this is my new repo.
